@@ -6,3 +6,8 @@ https://github.com/slopjong/automake-example/issues/2
 
 brew install automake autoconf
 aclocal
+
+
+cheatsheet img
+
+http://home.fnal.gov/~neilsen/notebook/autotools/autotools.html
