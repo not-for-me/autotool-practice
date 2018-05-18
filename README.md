@@ -11,3 +11,6 @@ aclocal
 cheatsheet img
 
 http://home.fnal.gov/~neilsen/notebook/autotools/autotools.html
+
+lecture
+https://www.dwheeler.com/autotools/
